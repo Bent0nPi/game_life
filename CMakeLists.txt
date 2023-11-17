@@ -3,7 +3,7 @@ project(tests_game_space)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(tests_game_space tests/field_tests.cpp tests/universe_tests.cpp tests/iterator_tests.cpp tests/file_handler_tests.cpp)
+add_executable(tests_game_space tests/field_tests.cpp tests/universe_tests.cpp tests/iterator_tests.cpp tests/file_handler_tests.cpp tests/console_input_processor_tests.cpp)
 
 
 #выключает copy elision

@@ -291,6 +291,30 @@ gtest_main/fast:
 	$(MAKE) $(MAKESILENT) -f _deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/build.make _deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/build
 .PHONY : gtest_main/fast
 
+tests/console_input_processor_tests.o: tests/console_input_processor_tests.cpp.o
+.PHONY : tests/console_input_processor_tests.o
+
+# target to build an object file
+tests/console_input_processor_tests.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/tests_game_space.dir/build.make CMakeFiles/tests_game_space.dir/tests/console_input_processor_tests.cpp.o
+.PHONY : tests/console_input_processor_tests.cpp.o
+
+tests/console_input_processor_tests.i: tests/console_input_processor_tests.cpp.i
+.PHONY : tests/console_input_processor_tests.i
+
+# target to preprocess a source file
+tests/console_input_processor_tests.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/tests_game_space.dir/build.make CMakeFiles/tests_game_space.dir/tests/console_input_processor_tests.cpp.i
+.PHONY : tests/console_input_processor_tests.cpp.i
+
+tests/console_input_processor_tests.s: tests/console_input_processor_tests.cpp.s
+.PHONY : tests/console_input_processor_tests.s
+
+# target to generate assembly for a file
+tests/console_input_processor_tests.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/tests_game_space.dir/build.make CMakeFiles/tests_game_space.dir/tests/console_input_processor_tests.cpp.s
+.PHONY : tests/console_input_processor_tests.cpp.s
+
 tests/field_tests.o: tests/field_tests.cpp.o
 .PHONY : tests/field_tests.o
 
@@ -409,6 +433,9 @@ help:
 	@echo "... tests_game_space"
 	@echo "... utils_lib"
 	@echo "... workers_lib"
+	@echo "... tests/console_input_processor_tests.o"
+	@echo "... tests/console_input_processor_tests.i"
+	@echo "... tests/console_input_processor_tests.s"
 	@echo "... tests/field_tests.o"
 	@echo "... tests/field_tests.i"
 	@echo "... tests/field_tests.s"

@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/anton/Документы/OOP/life/tests/console_input_processor_tests.cpp" "CMakeFiles/tests_game_space.dir/tests/console_input_processor_tests.cpp.o" "gcc" "CMakeFiles/tests_game_space.dir/tests/console_input_processor_tests.cpp.o.d"
   "/home/anton/Документы/OOP/life/tests/field_tests.cpp" "CMakeFiles/tests_game_space.dir/tests/field_tests.cpp.o" "gcc" "CMakeFiles/tests_game_space.dir/tests/field_tests.cpp.o.d"
   "/home/anton/Документы/OOP/life/tests/file_handler_tests.cpp" "CMakeFiles/tests_game_space.dir/tests/file_handler_tests.cpp.o" "gcc" "CMakeFiles/tests_game_space.dir/tests/file_handler_tests.cpp.o.d"
   "/home/anton/Документы/OOP/life/tests/iterator_tests.cpp" "CMakeFiles/tests_game_space.dir/tests/iterator_tests.cpp.o" "gcc" "CMakeFiles/tests_game_space.dir/tests/iterator_tests.cpp.o.d"

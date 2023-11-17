@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/tests_game_space.dir/tests/console_input_processor_tests.cpp.o"
+  "CMakeFiles/tests_game_space.dir/tests/console_input_processor_tests.cpp.o.d"
   "CMakeFiles/tests_game_space.dir/tests/field_tests.cpp.o"
   "CMakeFiles/tests_game_space.dir/tests/field_tests.cpp.o.d"
   "CMakeFiles/tests_game_space.dir/tests/file_handler_tests.cpp.o"

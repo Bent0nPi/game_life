@@ -78,9 +78,11 @@ parseAnswerStruct ConsoleInputProcessor::parseCommand() {
                                              GameCommand::TICK, 0, ""};
           return errorResponse;
         } else {
-          ticksCountNumber = ticksCountNumber * 10 + (int)ticksCountString[i];
+          ticksCountNumber =
+              ticksCountNumber * 10 + (ticksCountString[i] - '0');
         }
       }
+      cout << ticksCountNumber << endl;
       ticks = ticksCountNumber;
     }
     // make response struct with command tick and count of ticks

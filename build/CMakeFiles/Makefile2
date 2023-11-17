@@ -230,12 +230,12 @@ CMakeFiles/tests_game_space.dir/all: _deps/googletest-build/googletest/CMakeFile
 CMakeFiles/tests_game_space.dir/all: _deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/tests_game_space.dir/build.make CMakeFiles/tests_game_space.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/tests_game_space.dir/build.make CMakeFiles/tests_game_space.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/anton/Документы/OOP/life/build/CMakeFiles --progress-num=17,18,19,20,21 "Built target tests_game_space"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/anton/Документы/OOP/life/build/CMakeFiles --progress-num=17,18,19,20,21,22 "Built target tests_game_space"
 .PHONY : CMakeFiles/tests_game_space.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/tests_game_space.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/anton/Документы/OOP/life/build/CMakeFiles 25
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/anton/Документы/OOP/life/build/CMakeFiles 26
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/tests_game_space.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/anton/Документы/OOP/life/build/CMakeFiles 0
 .PHONY : CMakeFiles/tests_game_space.dir/rule
@@ -283,7 +283,7 @@ app/workers/CMakeFiles/workers_lib.dir/all: app/game_space_classes/CMakeFiles/ga
 app/workers/CMakeFiles/workers_lib.dir/all: app/utils/CMakeFiles/utils_lib.dir/all
 	$(MAKE) $(MAKESILENT) -f app/workers/CMakeFiles/workers_lib.dir/build.make app/workers/CMakeFiles/workers_lib.dir/depend
 	$(MAKE) $(MAKESILENT) -f app/workers/CMakeFiles/workers_lib.dir/build.make app/workers/CMakeFiles/workers_lib.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/anton/Документы/OOP/life/build/CMakeFiles --progress-num=25,26,27,28,29 "Built target workers_lib"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/anton/Документы/OOP/life/build/CMakeFiles --progress-num=26,27,28,29,30 "Built target workers_lib"
 .PHONY : app/workers/CMakeFiles/workers_lib.dir/all
 
 # Build rule for subdir invocation for target.
@@ -309,7 +309,7 @@ app/workers/CMakeFiles/workers_lib.dir/clean:
 app/utils/CMakeFiles/utils_lib.dir/all:
 	$(MAKE) $(MAKESILENT) -f app/utils/CMakeFiles/utils_lib.dir/build.make app/utils/CMakeFiles/utils_lib.dir/depend
 	$(MAKE) $(MAKESILENT) -f app/utils/CMakeFiles/utils_lib.dir/build.make app/utils/CMakeFiles/utils_lib.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/anton/Документы/OOP/life/build/CMakeFiles --progress-num=22,23,24 "Built target utils_lib"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/anton/Документы/OOP/life/build/CMakeFiles --progress-num=23,24,25 "Built target utils_lib"
 .PHONY : app/utils/CMakeFiles/utils_lib.dir/all
 
 # Build rule for subdir invocation for target.

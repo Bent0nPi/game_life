@@ -24,6 +24,12 @@
   "output": "CMakeFiles/tests_game_space.dir/tests/file_handler_tests.cpp.o"
 },
 {
+  "directory": "/home/anton/Документы/OOP/life/build",
+  "command": "/usr/bin/g++  -I/home/anton/Документы/OOP/life/app/game_space_classes -I/home/anton/Документы/OOP/life/app/workers -I/home/anton/Документы/OOP/life/app/utils -I/home/anton/Документы/OOP/life/app/console_process_classes -isystem /home/anton/Документы/OOP/life/build/_deps/googletest-src/googletest/include -isystem /home/anton/Документы/OOP/life/build/_deps/googletest-src/googletest -g -std=gnu++14 -o CMakeFiles/tests_game_space.dir/tests/console_input_processor_tests.cpp.o -c /home/anton/Документы/OOP/life/tests/console_input_processor_tests.cpp",
+  "file": "/home/anton/Документы/OOP/life/tests/console_input_processor_tests.cpp",
+  "output": "CMakeFiles/tests_game_space.dir/tests/console_input_processor_tests.cpp.o"
+},
+{
   "directory": "/home/anton/Документы/OOP/life/build/app/game_space_classes",
   "command": "/usr/bin/g++   -g -std=gnu++14 -fno-elide-constructors -o CMakeFiles/game_space_lib.dir/field.cpp.o -c /home/anton/Документы/OOP/life/app/game_space_classes/field.cpp",
   "file": "/home/anton/Документы/OOP/life/app/game_space_classes/field.cpp",
