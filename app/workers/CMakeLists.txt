@@ -1,0 +1,2 @@
+add_library(workers_lib file_handler.cpp file_handler.h helper.cpp helper.h i_initialize_info.h i_save_info.h iterator.cpp iterator.h statistics.cpp statistics.h)
+target_link_libraries(workers_lib PUBLIC game_space_lib utils_lib)

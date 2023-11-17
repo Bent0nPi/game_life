@@ -1,0 +1,116 @@
+[
+{
+  "directory": "/home/anton/Документы/OOP/life/build",
+  "command": "/usr/bin/g++  -I/home/anton/Документы/OOP/life/app/game_space_classes -I/home/anton/Документы/OOP/life/app/workers -I/home/anton/Документы/OOP/life/app/utils -I/home/anton/Документы/OOP/life/app/console_process_classes -isystem /home/anton/Документы/OOP/life/build/_deps/googletest-src/googletest/include -isystem /home/anton/Документы/OOP/life/build/_deps/googletest-src/googletest -g -std=gnu++14 -o CMakeFiles/tests_game_space.dir/tests/field_tests.cpp.o -c /home/anton/Документы/OOP/life/tests/field_tests.cpp",
+  "file": "/home/anton/Документы/OOP/life/tests/field_tests.cpp",
+  "output": "CMakeFiles/tests_game_space.dir/tests/field_tests.cpp.o"
+},
+{
+  "directory": "/home/anton/Документы/OOP/life/build",
+  "command": "/usr/bin/g++  -I/home/anton/Документы/OOP/life/app/game_space_classes -I/home/anton/Документы/OOP/life/app/workers -I/home/anton/Документы/OOP/life/app/utils -I/home/anton/Документы/OOP/life/app/console_process_classes -isystem /home/anton/Документы/OOP/life/build/_deps/googletest-src/googletest/include -isystem /home/anton/Документы/OOP/life/build/_deps/googletest-src/googletest -g -std=gnu++14 -o CMakeFiles/tests_game_space.dir/tests/universe_tests.cpp.o -c /home/anton/Документы/OOP/life/tests/universe_tests.cpp",
+  "file": "/home/anton/Документы/OOP/life/tests/universe_tests.cpp",
+  "output": "CMakeFiles/tests_game_space.dir/tests/universe_tests.cpp.o"
+},
+{
+  "directory": "/home/anton/Документы/OOP/life/build",
+  "command": "/usr/bin/g++  -I/home/anton/Документы/OOP/life/app/game_space_classes -I/home/anton/Документы/OOP/life/app/workers -I/home/anton/Документы/OOP/life/app/utils -I/home/anton/Документы/OOP/life/app/console_process_classes -isystem /home/anton/Документы/OOP/life/build/_deps/googletest-src/googletest/include -isystem /home/anton/Документы/OOP/life/build/_deps/googletest-src/googletest -g -std=gnu++14 -o CMakeFiles/tests_game_space.dir/tests/iterator_tests.cpp.o -c /home/anton/Документы/OOP/life/tests/iterator_tests.cpp",
+  "file": "/home/anton/Документы/OOP/life/tests/iterator_tests.cpp",
+  "output": "CMakeFiles/tests_game_space.dir/tests/iterator_tests.cpp.o"
+},
+{
+  "directory": "/home/anton/Документы/OOP/life/build",
+  "command": "/usr/bin/g++  -I/home/anton/Документы/OOP/life/app/game_space_classes -I/home/anton/Документы/OOP/life/app/workers -I/home/anton/Документы/OOP/life/app/utils -I/home/anton/Документы/OOP/life/app/console_process_classes -isystem /home/anton/Документы/OOP/life/build/_deps/googletest-src/googletest/include -isystem /home/anton/Документы/OOP/life/build/_deps/googletest-src/googletest -g -std=gnu++14 -o CMakeFiles/tests_game_space.dir/tests/file_handler_tests.cpp.o -c /home/anton/Документы/OOP/life/tests/file_handler_tests.cpp",
+  "file": "/home/anton/Документы/OOP/life/tests/file_handler_tests.cpp",
+  "output": "CMakeFiles/tests_game_space.dir/tests/file_handler_tests.cpp.o"
+},
+{
+  "directory": "/home/anton/Документы/OOP/life/build/app/game_space_classes",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -fno-elide-constructors -o CMakeFiles/game_space_lib.dir/field.cpp.o -c /home/anton/Документы/OOP/life/app/game_space_classes/field.cpp",
+  "file": "/home/anton/Документы/OOP/life/app/game_space_classes/field.cpp",
+  "output": "app/game_space_classes/CMakeFiles/game_space_lib.dir/field.cpp.o"
+},
+{
+  "directory": "/home/anton/Документы/OOP/life/build/app/game_space_classes",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -fno-elide-constructors -o CMakeFiles/game_space_lib.dir/universe.cpp.o -c /home/anton/Документы/OOP/life/app/game_space_classes/universe.cpp",
+  "file": "/home/anton/Документы/OOP/life/app/game_space_classes/universe.cpp",
+  "output": "app/game_space_classes/CMakeFiles/game_space_lib.dir/universe.cpp.o"
+},
+{
+  "directory": "/home/anton/Документы/OOP/life/build/app/workers",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -fno-elide-constructors -o CMakeFiles/workers_lib.dir/file_handler.cpp.o -c /home/anton/Документы/OOP/life/app/workers/file_handler.cpp",
+  "file": "/home/anton/Документы/OOP/life/app/workers/file_handler.cpp",
+  "output": "app/workers/CMakeFiles/workers_lib.dir/file_handler.cpp.o"
+},
+{
+  "directory": "/home/anton/Документы/OOP/life/build/app/workers",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -fno-elide-constructors -o CMakeFiles/workers_lib.dir/helper.cpp.o -c /home/anton/Документы/OOP/life/app/workers/helper.cpp",
+  "file": "/home/anton/Документы/OOP/life/app/workers/helper.cpp",
+  "output": "app/workers/CMakeFiles/workers_lib.dir/helper.cpp.o"
+},
+{
+  "directory": "/home/anton/Документы/OOP/life/build/app/workers",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -fno-elide-constructors -o CMakeFiles/workers_lib.dir/iterator.cpp.o -c /home/anton/Документы/OOP/life/app/workers/iterator.cpp",
+  "file": "/home/anton/Документы/OOP/life/app/workers/iterator.cpp",
+  "output": "app/workers/CMakeFiles/workers_lib.dir/iterator.cpp.o"
+},
+{
+  "directory": "/home/anton/Документы/OOP/life/build/app/workers",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -fno-elide-constructors -o CMakeFiles/workers_lib.dir/statistics.cpp.o -c /home/anton/Документы/OOP/life/app/workers/statistics.cpp",
+  "file": "/home/anton/Документы/OOP/life/app/workers/statistics.cpp",
+  "output": "app/workers/CMakeFiles/workers_lib.dir/statistics.cpp.o"
+},
+{
+  "directory": "/home/anton/Документы/OOP/life/build/app/utils",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -fno-elide-constructors -o CMakeFiles/utils_lib.dir/exceptions.cpp.o -c /home/anton/Документы/OOP/life/app/utils/exceptions.cpp",
+  "file": "/home/anton/Документы/OOP/life/app/utils/exceptions.cpp",
+  "output": "app/utils/CMakeFiles/utils_lib.dir/exceptions.cpp.o"
+},
+{
+  "directory": "/home/anton/Документы/OOP/life/build/app/utils",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -fno-elide-constructors -o CMakeFiles/utils_lib.dir/suggestions.cpp.o -c /home/anton/Документы/OOP/life/app/utils/suggestions.cpp",
+  "file": "/home/anton/Документы/OOP/life/app/utils/suggestions.cpp",
+  "output": "app/utils/CMakeFiles/utils_lib.dir/suggestions.cpp.o"
+},
+{
+  "directory": "/home/anton/Документы/OOP/life/build/app/console_process_classes",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -fno-elide-constructors -o CMakeFiles/console_processors_lib.dir/console_input_processor.cpp.o -c /home/anton/Документы/OOP/life/app/console_process_classes/console_input_processor.cpp",
+  "file": "/home/anton/Документы/OOP/life/app/console_process_classes/console_input_processor.cpp",
+  "output": "app/console_process_classes/CMakeFiles/console_processors_lib.dir/console_input_processor.cpp.o"
+},
+{
+  "directory": "/home/anton/Документы/OOP/life/build/app/console_process_classes",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -fno-elide-constructors -o CMakeFiles/console_processors_lib.dir/console_output_compiler.cpp.o -c /home/anton/Документы/OOP/life/app/console_process_classes/console_output_compiler.cpp",
+  "file": "/home/anton/Документы/OOP/life/app/console_process_classes/console_output_compiler.cpp",
+  "output": "app/console_process_classes/CMakeFiles/console_processors_lib.dir/console_output_compiler.cpp.o"
+},
+{
+  "directory": "/home/anton/Документы/OOP/life/build/app/client",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -fno-elide-constructors -o CMakeFiles/game_client_lib.dir/client.cpp.o -c /home/anton/Документы/OOP/life/app/client/client.cpp",
+  "file": "/home/anton/Документы/OOP/life/app/client/client.cpp",
+  "output": "app/client/CMakeFiles/game_client_lib.dir/client.cpp.o"
+},
+{
+  "directory": "/home/anton/Документы/OOP/life/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/g++  -I/home/anton/Документы/OOP/life/build/_deps/googletest-src/googlemock/include -I/home/anton/Документы/OOP/life/build/_deps/googletest-src/googlemock -isystem /home/anton/Документы/OOP/life/build/_deps/googletest-src/googletest/include -isystem /home/anton/Документы/OOP/life/build/_deps/googletest-src/googletest -g -std=c++14 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -fno-elide-constructors -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/anton/Документы/OOP/life/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/home/anton/Документы/OOP/life/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/home/anton/Документы/OOP/life/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/g++  -isystem /home/anton/Документы/OOP/life/build/_deps/googletest-src/googlemock/include -isystem /home/anton/Документы/OOP/life/build/_deps/googletest-src/googlemock -isystem /home/anton/Документы/OOP/life/build/_deps/googletest-src/googletest/include -isystem /home/anton/Документы/OOP/life/build/_deps/googletest-src/googletest -g -std=c++14 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -fno-elide-constructors -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/anton/Документы/OOP/life/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/home/anton/Документы/OOP/life/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/home/anton/Документы/OOP/life/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/g++  -I/home/anton/Документы/OOP/life/build/_deps/googletest-src/googletest/include -I/home/anton/Документы/OOP/life/build/_deps/googletest-src/googletest -g -std=c++14 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -fno-elide-constructors -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/anton/Документы/OOP/life/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/home/anton/Документы/OOP/life/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/home/anton/Документы/OOP/life/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/g++  -isystem /home/anton/Документы/OOP/life/build/_deps/googletest-src/googletest/include -isystem /home/anton/Документы/OOP/life/build/_deps/googletest-src/googletest -g -std=c++14 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -fno-elide-constructors -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/anton/Документы/OOP/life/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/home/anton/Документы/OOP/life/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+}
+]
